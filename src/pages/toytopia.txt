@@ -1,8 +1,0 @@
-const firebaseConfig = {
-  apiKey: "AIzaSyDZYIVvhDCYCqjezFvGhv22FYBWUB9rwBQ",
-  authDomain: "toytopia-3157b.firebaseapp.com",
-  projectId: "toytopia-3157b",
-  storageBucket: "toytopia-3157b.firebasestorage.app",
-  messagingSenderId: "1078767539587",
-  appId: "1:1078767539587:web:ed9bb8070807d25102d2b6"
-};
