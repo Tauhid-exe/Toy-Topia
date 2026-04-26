@@ -1,9 +1,17 @@
 import toys from '../data/toys.json'
 import ToyCard from '../components/ToyCard'
+import { useAuth } from '../context/AuthContext'
 
 function Home() {
+  const { user } = useAuth()
+
   return (
     <div>
+
+      {/* Temporary auth check - remove later */}
+      <div className="bg-base-300 text-center py-2 text-sm">
+        {user ? `Logged in as: ${user.email}` : 'Not logged in'}
+      </div>
 
       {/* Hero Section */}
       <div className="bg-base-200 py-20 text-center">
