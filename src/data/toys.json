@@ -1,0 +1,98 @@
+[
+  {
+    "toyId": 1,
+    "toyName": "Lego Classic Bricks",
+    "sellerName": "Brick Haven",
+    "sellerEmail": "hello@brickhaven.com",
+    "price": 49.99,
+    "rating": 4.7,
+    "availableQuantity": 75,
+    "description": "A timeless set of colorful Lego bricks that encourages creativity and problem-solving. Kids can build anything they imagine — from houses to vehicles to entire cities! Perfect for children aged 4 and up.",
+    "pictureURL": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=600",
+    "subCategory": "Building Blocks"
+  },
+  {
+    "toyId": 2,
+    "toyName": "Robo-Friend 3000",
+    "sellerName": "TechTots",
+    "sellerEmail": "shop@techtots.com",
+    "price": 79.99,
+    "rating": 4.9,
+    "availableQuantity": 30,
+    "description": "An interactive robot toy that teaches basic coding concepts through fun missions! Robo-Friend follows voice commands, dances, and plays games. A great STEM gift for curious kids aged 6-12.",
+    "pictureURL": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600",
+    "subCategory": "STEM & Robotics"
+  },
+  {
+    "toyId": 3,
+    "toyName": "Princess Dream Castle",
+    "sellerName": "Fairy Tale Finds",
+    "sellerEmail": "magic@fairytalefinds.com",
+    "price": 64.99,
+    "rating": 4.8,
+    "availableQuantity": 50,
+    "description": "A magnificent 4-story castle with 7 rooms, a working drawbridge, and 3 princess figurines. Lights up and plays enchanting melodies. Sparks creativity and imaginative storytelling.",
+    "pictureURL": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600",
+    "subCategory": "Pretend Play"
+  },
+  {
+    "toyId": 4,
+    "toyName": "Dino Safari Dig Kit",
+    "sellerName": "Wild Wonders",
+    "sellerEmail": "dig@wildwonders.com",
+    "price": 29.99,
+    "rating": 4.6,
+    "availableQuantity": 120,
+    "description": "Become a paleontologist! This kit includes 3 plaster blocks, each hiding a dinosaur skeleton. Use the tools to excavate and assemble your own T-Rex, Triceratops, or Stegosaurus.",
+    "pictureURL": "https://images.unsplash.com/photo-1615789591457-74a63395c990?w=600",
+    "subCategory": "Educational"
+  },
+  {
+    "toyId": 5,
+    "toyName": "Watercolor Art Studio",
+    "sellerName": "Little Artists",
+    "sellerEmail": "create@littleartists.com",
+    "price": 24.99,
+    "rating": 4.5,
+    "availableQuantity": 200,
+    "description": "A complete art studio in a box! Includes 36 vibrant watercolors, 10 brush sizes, 50 sheets of art paper, and step-by-step tutorials. Perfect for budding artists aged 5 and up.",
+    "pictureURL": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=600",
+    "subCategory": "Arts & Crafts"
+  },
+  {
+    "toyId": 6,
+    "toyName": "Speed Racer RC Car",
+    "sellerName": "Zoom Zone",
+    "sellerEmail": "zoom@zoomzone.com",
+    "price": 54.99,
+    "rating": 4.7,
+    "availableQuantity": 45,
+    "description": "Blazing fast remote-controlled car with 4-wheel drive! Reaches speeds up to 30 km/h. Built for indoor and outdoor racing. Includes turbo mode, 2.4GHz control, and rechargeable battery.",
+    "pictureURL": "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?w=600",
+    "subCategory": "Remote Control"
+  },
+  {
+    "toyId": 7,
+    "toyName": "Magnetic Tiles 60pc",
+    "sellerName": "Snap & Build",
+    "sellerEmail": "build@snapandbuild.com",
+    "price": 44.99,
+    "rating": 4.8,
+    "availableQuantity": 88,
+    "description": "60 colorful magnetic tiles in 6 shapes. Build 3D structures, bridges, towers, and geometric patterns. Develops spatial reasoning and STEM skills. Safe for kids aged 3 and up.",
+    "pictureURL": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=600",
+    "subCategory": "Building Blocks"
+  },
+  {
+    "toyId": 8,
+    "toyName": "Glow-in-Dark Star Puzzle",
+    "sellerName": "Night Sky Toys",
+    "sellerEmail": "stars@nightskytoys.com",
+    "price": 19.99,
+    "rating": 4.4,
+    "availableQuantity": 150,
+    "description": "A 500-piece jigsaw puzzle that glows in the dark! Features the complete night sky with constellations labeled. Fun for the whole family. Comes with a UV torch to activate the glow effect.",
+    "pictureURL": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=600",
+    "subCategory": "Puzzles & Games"
+  }
+]

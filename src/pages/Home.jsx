@@ -1,3 +1,5 @@
+import toys from '../data/toys.json'
+
 function Home() {
   return (
     <div>
@@ -15,13 +17,13 @@ function Home() {
         </button>
       </div>
 
-      {/* Popular Toys Section - placeholder for now */}
+      {/* Quick data check */}
       <div className="max-w-7xl mx-auto px-4 py-16">
         <h2 className="text-3xl font-bold text-center mb-10">
           🌟 Popular Toys
         </h2>
         <p className="text-center text-base-content/50">
-          Toy cards will go here soon...
+          We have {toys.length} toys loaded ✅
         </p>
       </div>
 
