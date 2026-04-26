@@ -1,4 +1,5 @@
 import toys from '../data/toys.json'
+import ToyCard from '../components/ToyCard'
 
 function Home() {
   return (
@@ -17,14 +18,16 @@ function Home() {
         </button>
       </div>
 
-      {/* Quick data check */}
+      {/* Popular Toys Section */}
       <div className="max-w-7xl mx-auto px-4 py-16">
         <h2 className="text-3xl font-bold text-center mb-10">
           🌟 Popular Toys
         </h2>
-        <p className="text-center text-base-content/50">
-          We have {toys.length} toys loaded ✅
-        </p>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {toys.map(toy => (
+            <ToyCard key={toy.toyId} toy={toy} />
+          ))}
+        </div>
       </div>
 
     </div>
